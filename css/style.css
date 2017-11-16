@@ -41,3 +41,7 @@ h3 {
 .element:nth-child(n+7){
   background-color: red;
 }
+
+/*.special {
+  background-color: red
+}*/
